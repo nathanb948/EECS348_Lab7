@@ -1,0 +1,11 @@
+h1 {
+	margin: 25px 50px 75px 100px;
+	text-align: center;
+	border: 2px solid gray;
+}
+
+p {
+	text-align: center;
+	font-size: 18pt;
+}
+
